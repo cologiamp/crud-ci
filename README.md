@@ -2,8 +2,6 @@
 # Simple Login CI
 This web application is an example for those who wants to learn how to do user login and user management system using codeigniter 3.
 
-
-
 ## Application Configuration
 * clone / download this repository to your localhost
 * create new simple_login database
@@ -20,12 +18,7 @@ This web application is an example for those who wants to learn how to do user l
 This application is using PHP Framework Codeigniter 3.1.3
 
 ## Contributor
-Ignacio Giampaoli | e-Portfolio: https://sites.google.com/site/rudiliucs1/ | Linkedin: https://id.linkedin.com/in/rudi-liu-18b81079
-
-## Video Tutorial
-[![Video Tutorial](https://raw.githubusercontent.com/rudiliu/simple-login-CI/master/docs/screenshot/youtube-cover.png)](https://youtu.be/h85rXvJVLxc "Video Tutorial")
-
-
+Ignacio Giampaoli |
 
 
 
